@@ -1,4 +1,5 @@
 <!-- HEADER -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Gabriel%20Ferreira%20Dias&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Data%20Engineer%20%7C%20Python%20%E2%80%A2%20SQL%20%E2%80%A2%20Spark%20%E2%80%A2%20Airflow%20%7C%20Microsoft%20Fabric&descAlignY=55&descSize=15"/>
 </p>
@@ -7,9 +8,11 @@
   <a href="https://www.linkedin.com/in/gabriel-ferreira-5b8049206/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="mailto:gabriel.fe.dias@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
   <a href="https://gabrielferreiradias.github.io/portf-lio_site_Gf/">
     <img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
@@ -21,9 +24,9 @@
 
 Sou **Data Engineer**, com experiência em construção e evolução de soluções de dados, atuando com **pipelines ETL/ELT, integração de múltiplas fontes, Data Lake, modelagem e automação**.
 
-Trabalho principalmente com **Python, SQL, Apache Spark, Apache Airflow e Microsoft Fabric**, transformando dados em bases confiáveis para Analytics, BI e tomada de decisão.
+Trabalho principalmente com **Python, SQL, Apache Spark, Apache Airflow e Microsoft Fabric**, transformando dados em bases confiáveis para **Analytics, BI e tomada de decisão**.
 
-Também possuo conhecimentos práticos em **Linux, servidores, SSH, redes e administração via terminal**, desenvolvidos através de projetos e laboratório próprio.
+Também possuo conhecimentos práticos em **Linux, Ubuntu, servidores, SSH, redes e administração via terminal**, desenvolvidos através de projetos e laboratório próprio.
 
 ---
 
@@ -69,7 +72,8 @@ Também possuo conhecimentos práticos em **Linux, servidores, SSH, redes e admi
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielFerreiraDias&theme=github_dark"/>
+  <img height="170" src="https://github-readme-stats-salesp07.vercel.app/api?username=GabrielFerreiraDias&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  
   <img height="170" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=GabrielFerreiraDias&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&langs_count=8"/>
 </p>
 
@@ -85,11 +89,15 @@ Também possuo conhecimentos práticos em **Linux, servidores, SSH, redes e admi
   <a href="mailto:gabriel.fe.dias@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-gabriel.fe.dias%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <br>
+</p>
+
+<p>
   <a href="https://www.linkedin.com/in/gabriel-ferreira-5b8049206/">
     <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Ferreira%20Dias-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  <br>
+</p>
+
+<p>
   <a href="https://gabrielferreiradias.github.io/portf-lio_site_Gf/">
     <img src="https://img.shields.io/badge/Portfolio-Acessar-667eea?style=flat-square&logo=google-chrome&logoColor=white"/>
   </a>
@@ -98,6 +106,8 @@ Também possuo conhecimentos práticos em **Linux, servidores, SSH, redes e admi
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GabrielFerreiraDias&color=667eea&style=flat-square&label=Profile+Views"/>
 </p>
+
+---
 
 <p align="center">
   <i>Construindo soluções de dados, automatizando processos e transformando informação em valor.</i>
