@@ -13,67 +13,71 @@ Também possuo conhecimentos práticos em **programação, Linux, servidores e r
 ### 📊 Data Engineering & Analytics
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache spark/apachespark-original.svg" width="40"/>
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,azure" />
 </p>
 
 **Python • SQL • SQL Server • Apache Spark • Apache Airflow • Microsoft Fabric • Databricks • Data Lake • ETL/ELT • Power BI**
 
 ### ⚙️ Programming & Automation
 
+<p>
+  <img src="https://skillicons.dev/icons?i=python,bash" />
+</p>
+
 **Python • SQL • Power Apps • Power Platform • RPA • Automação**
 
-### 🖥️ Infrastructure
+### 🖥️ Infrastructure & Servers
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" width="40"/>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,ssh" />
 </p>
 
 **Linux • Ubuntu • SSH • Redes • Servidores • HTTP • Portas • Permissões • Self-hosting**
 
 ---
 
-## 💼 Experiência
+## 🧠 Conhecimentos
 
-- 🏗️ Desenvolvimento de **pipelines ETL/ELT** e integração de múltiplas fontes.
-- 🗄️ Estruturação de **Data Lake e bases analíticas**.
-- 📐 Modelagem e transformação de dados para **Analytics, BI e Data Science**.
-- 📊 Desenvolvimento de **KPIs, dashboards e análises operacionais**.
-- ⚡ Automação de processos com **Python e Power Platform**.
-- 🔐 Aplicação de conhecimentos práticos em **Linux, servidores e redes**.
+**Data Engineering**  
+ETL/ELT • Data Pipelines • Data Lake • Data Integration • Data Modeling • Data Quality • Data Governance
 
----
+**Analytics & BI**  
+Analytics • Business Intelligence • Power BI • KPIs • Bases Analíticas
 
-## 🚀 Projeto
+**Programming**  
+Python • SQL • Automação • Manipulação e transformação de dados
 
-### 📱 Android como Servidor de Arquivos
-
-Laboratório utilizando Android + Linux para disponibilização e gerenciamento de arquivos, colocando em prática conhecimentos de **servidores, SSH, redes, permissões e administração via terminal**.
+**Infrastructure**  
+Linux • Servidores • SSH • Redes • Serviços de rede • Administração via terminal
 
 ---
 
-## 🎓 Formação
+## 📊 GitHub Stats
 
-🎓 **Ciência de Dados** — Estácio  
-🎓 **Técnico em Administração** — ETEC
-
----
-
-## 📜 Certificações
-
-**Power BI • Databricks • Cloud • Python • Power Apps**
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielFerreiraDias&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFerreiraDias&layout=compact&langs_count=8&hide_border=true"/>
+</p>
 
 ---
 
-## 📫 Contato
+## 📫 Contatos
 
-[LinkedIn](https://www.linkedin.com/in/gabriel-ferreira-5b8049206/) •
-[Portfólio](https://gabrielferreiradias.github.io/portf-lio_site_Gf/) •
-**gabriel.fe.dias@gmail.com**
+<p align="center">
+  <a href="mailto:gabriel.fe.dias@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/gabriel-ferreira-5b8049206/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://gabrielferreiradias.github.io/portf-lio_site_Gf/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white"/>
+  </a>
+  <a href="https://github.com/GabrielFerreiraDias">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-### 🚀 Dados • Programação • Tecnologia
+---
+
+### 🚀 Data • Code • Infrastructure
