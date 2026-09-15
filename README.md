@@ -54,29 +54,40 @@ Linux • Servidores • SSH • Redes • Serviços de rede • Administração
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielFerreiraDias&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFerreiraDias&layout=compact&langs_count=8&hide_border=true"/>
-</p>
+<div align="center">
+
+  <a href="https://github.com/GabrielFerreiraDias">
+    <img loading="lazy" height="180em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFerreiraDias&layout=compact&langs_count=7&theme=dracula"/>
+    <img loading="lazy" height="180em"
+      src="https://github-readme-stats.vercel.app/api?username=GabrielFerreiraDias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
+
+</div>
 
 ---
 
 ## 📫 Contatos
 
-<p align="center">
+<div align="center">
+
   <a href="mailto:gabriel.fe.dias@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
   <a href="https://www.linkedin.com/in/gabriel-ferreira-5b8049206/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="https://gabrielferreiradias.github.io/portf-lio_site_Gf/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfólio-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
+
   <a href="https://github.com/GabrielFerreiraDias">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p>
+
+</div>
 
 ---
 
