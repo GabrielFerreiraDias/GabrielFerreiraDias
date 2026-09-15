@@ -28,13 +28,17 @@ Também possuo conhecimentos práticos em **programação, Linux, servidores e r
 
 ## 📊 GitHub Stats
 
+
 <div align="center">
-  <a href="https://github.com/GabrielFerreiraDias">
-    <img height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFerreiraDias&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
-    <img height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=GabrielFerreiraDias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-  </a>
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=GabrielFerreiraDias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"
+  />
+
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFerreiraDias&layout=compact&langs_count=7&theme=dracula&hide_border=true"
+  />
 </div>
 
 ---
